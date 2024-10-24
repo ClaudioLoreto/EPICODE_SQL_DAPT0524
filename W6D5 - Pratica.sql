@@ -1,4 +1,4 @@
--- W10D5 - Pratica
+-- W6D5 - Pratica
 USE adv;
 -- * 1.Esponi l’anagrafica dei prodotti indicando per ciascun prodotto anche la sua sottocategoria (DimProduct, DimProductSubcategory).
 SELECT a.ProductAlternateKey AS 'Codice Prodotto'
