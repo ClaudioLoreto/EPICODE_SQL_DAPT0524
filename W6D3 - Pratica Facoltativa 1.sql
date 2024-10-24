@@ -1,4 +1,4 @@
-/*W10D3 - Pratica Facoltativa 2 */
+/*W6D3 - Pratica Facoltativa 2 */
 
 CREATE DATABASE GestioneStore; -- Creazione del Database:
 USE GestioneStore;
