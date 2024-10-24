@@ -1,4 +1,4 @@
-/*W10D3 - Pratica Facoltativa 2
+/*W6D3 - Pratica Facoltativa 2
 Esercizio 1: creazione database e tabelle.
 Andiamo a creare un nuovo database all’interno del quale inseriremo alcune tabelle, definendone gli attributi, la tipologia di dato ammesso e i constraints:*/
 
